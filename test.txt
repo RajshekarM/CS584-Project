@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+check....
+=======
+
+
+
 This is a test file for CS 584
+>>>>>>> origin/master
